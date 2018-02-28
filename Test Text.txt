@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿Ce fichier a été modifier depuis GitHub . test 254
+=======
+﻿Ce fichier a été modifier depuis GitHub test
+>>>>>>> bf3867e25f43f4a0862eca30f2cac3c781dfb5a6
