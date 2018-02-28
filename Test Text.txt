@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Retest
+=======
+Ce fichier a été modifier depuis GitHub
+>>>>>>> c0e2e4c1e4185ec7f09a2789149b4cf6f98b219e
